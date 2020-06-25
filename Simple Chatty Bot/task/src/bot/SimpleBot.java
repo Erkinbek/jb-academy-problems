@@ -6,4 +6,3 @@ public class SimpleBot {
         System.out.println("I was created in 2020.");
     }
 }
-
