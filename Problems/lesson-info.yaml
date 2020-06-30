@@ -21,3 +21,4 @@ content:
 - Decrement all
 - Replacing 'a' with 'b'
 - Extracting a substring
+- Check prefix ignoring the case
